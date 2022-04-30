@@ -2,6 +2,7 @@
   "name": "singlepageresume",
   "version": "1.0.0",
   "description": "single page resume",
+  "homepage":"https://vhack21.github.io/Single-page-resume/views/home.ejs",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
